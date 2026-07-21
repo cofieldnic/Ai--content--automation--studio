@@ -1,0 +1,37 @@
+Build a fully automated AI-powered media platform that can:
+
+- Research topics
+- Write scripts
+- Generate AI voices
+- Create AI videos
+- Edit videos automatically
+- Generate thumbnails
+- Create subtitles
+- Publish to YouTube
+- Publish to TikTok
+- Publish to Facebook
+- Publish to Instagram
+
+## Development Roadmap
+
+Phase 1
+- Repository setup
+- Project planning
+
+Phase 2
+- Research Agent
+
+Phase 3
+- Script Writer Agent
+
+Phase 4
+- Voice Generator
+
+Phase 5
+- Video Generator
+
+Phase 6
+- Video Editor
+
+Phase 7
+- Publishing Automation
